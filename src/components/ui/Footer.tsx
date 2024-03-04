@@ -33,7 +33,7 @@ export const Footer = () => {
                   </a>
                   <p className="mb-3">Instagram</p>
                   <a href="https://github.com/hcdc-its" target="_blank" rel="noopener noreferrer">
-                    <p className="mb-3">GitHub</p>
+                    <p className="mb-3 hover:underline hover:text-white">GitHub</p>
                   </a>
 
                 </div>
